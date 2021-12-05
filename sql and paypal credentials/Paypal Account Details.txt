@@ -1,0 +1,23 @@
+sb-63gl97714491@business.example.com
+Client id: Aa__kFfguZO_Bh_MilO7v2W7QcQLj-RRjm7VWvVilolnW7qRjSPWIbkfh9pYaz1fsM2YyGO_eA5JHuHU
+Secret Key: EMga228x4oy6itQW_lRaD8WRg5_Av3w1gUEIzTDqpv-LYzNHdZhphnPpS--_uNO8EDnik0JnxyWHteDG
+
+Business Credentials
+First name:
+John
+Last name:
+Doe
+Email ID:
+sb-63gl97714491@business.example.com
+System Generated Password:
+:@k5Kw_r
+
+User Account:
+First name:
+John
+Last name:
+Doe
+Email ID:
+sb-qlcov7696529@personal.example.com
+System Generated Password:
+Iqy0:/la
