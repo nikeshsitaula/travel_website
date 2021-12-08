@@ -85,7 +85,7 @@ include('include/connection.php');
 					<label>HOLIDAYS</label>
 				</div>
 				<!---strat-date-piker---->
-				  <script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
+				  <script src="https://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
 				  <script>
 				  $(function() {
 				    $( "#datepicker" ).datepicker();
